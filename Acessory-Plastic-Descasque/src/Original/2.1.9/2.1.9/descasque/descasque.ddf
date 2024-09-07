@@ -1,0 +1,31 @@
+.Set Cabinet=ON
+.Set Compress=ON
+.Set CompressionType=LZX
+.Set CompressionMemory=21
+.Set CabinetNameTemplate=DESCASQUE.CAB
+.Set DiskDirectoryTemplate=C:\Program Files\MySQL\MySQL Server 5.0\Data\\descasque
+
+C:\Program Files\MySQL\MySQL Server 5.0\Data\\descasque\tbl_dados.frm
+C:\Program Files\MySQL\MySQL Server 5.0\Data\\descasque\tbl_dados.MYD
+C:\Program Files\MySQL\MySQL Server 5.0\Data\\descasque\tbl_dados.MYI
+C:\Program Files\MySQL\MySQL Server 5.0\Data\\descasque\tbl_descascador.frm
+C:\Program Files\MySQL\MySQL Server 5.0\Data\\descasque\tbl_descascador.MYD
+C:\Program Files\MySQL\MySQL Server 5.0\Data\\descasque\tbl_descascador.MYI
+C:\Program Files\MySQL\MySQL Server 5.0\Data\\descasque\tbl_entrada_mp.frm
+C:\Program Files\MySQL\MySQL Server 5.0\Data\\descasque\tbl_entrada_mp.MYD
+C:\Program Files\MySQL\MySQL Server 5.0\Data\\descasque\tbl_entrada_mp.MYI
+C:\Program Files\MySQL\MySQL Server 5.0\Data\\descasque\tbl_entrega.frm
+C:\Program Files\MySQL\MySQL Server 5.0\Data\\descasque\tbl_entrega.MYD
+C:\Program Files\MySQL\MySQL Server 5.0\Data\\descasque\tbl_entrega.MYI
+C:\Program Files\MySQL\MySQL Server 5.0\Data\\descasque\tbl_fichas.frm
+C:\Program Files\MySQL\MySQL Server 5.0\Data\\descasque\tbl_fichas.MYD
+C:\Program Files\MySQL\MySQL Server 5.0\Data\\descasque\tbl_fichas.MYI
+C:\Program Files\MySQL\MySQL Server 5.0\Data\\descasque\tbl_mp.frm
+C:\Program Files\MySQL\MySQL Server 5.0\Data\\descasque\tbl_mp.MYD
+C:\Program Files\MySQL\MySQL Server 5.0\Data\\descasque\tbl_mp.MYI
+C:\Program Files\MySQL\MySQL Server 5.0\Data\\descasque\tbl_obs.frm
+C:\Program Files\MySQL\MySQL Server 5.0\Data\\descasque\tbl_obs.MYD
+C:\Program Files\MySQL\MySQL Server 5.0\Data\\descasque\tbl_obs.MYI
+C:\Program Files\MySQL\MySQL Server 5.0\Data\\descasque\tbl_precos.frm
+C:\Program Files\MySQL\MySQL Server 5.0\Data\\descasque\tbl_precos.MYD
+C:\Program Files\MySQL\MySQL Server 5.0\Data\\descasque\tbl_precos.MYI

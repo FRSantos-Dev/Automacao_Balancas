@@ -1,0 +1,618 @@
+[Root]
+Most Recent Package=Descasque Installation
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Arquivos\Package\descasque
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=Yes
+Jet 2.x=No
+Lotus=No
+Exchange=No
+Text=No
+Paradox=No
+Excel=No
+Xbase=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+CRXLAT32.DLL=C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\CRXLAT32.DLL
+
+[Package|Standard Setup Package 1|Files Released]
+PcScale.dll=
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\CRYSTL32.OCX=
+C:\WINDOWS\SYSTEM\scrrun.dll=
+
+[Package|Standard Setup Package 1|Files Added]
+d:\arquivos\vbprojects\descasque\referencias.rpt=
+d:\arquivos\vbprojects\descasque\apagar.rpt=
+d:\arquivos\vbprojects\descasque\descascadores.rpt=
+d:\arquivos\vbprojects\descasque\fechamento.rpt=
+d:\arquivos\vbprojects\descasque\geral.rpt=
+d:\arquivos\vbprojects\descasque\pagas.rpt=
+d:\arquivos\vbprojects\descasque\descasque.mdb=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+D:\Arquivos\vbprojects\Descasque\DescasquePJ.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\hhctrl.ocx=Yes
+C:\WINDOWS\SYSTEM\itss.dll=Yes
+C:\WINDOWS\SYSTEM\itircl.dll=Yes
+C:\WINDOWS\SYSTEM\HH.EXE=Yes
+C:\Arquivos de programas\Arquivos comuns\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJET35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJTER35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJINT35.DLL=Yes
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=Yes
+C:\WINDOWS\SYSTEM\expsrv.dll=Yes
+C:\WINDOWS\SYSTEM\MSRD2X35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSREPL35.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\SYSTEM\VB5DB.DLL=Yes
+C:\WINDOWS\SYSTEM\scrrun.dll=Yes
+C:\WINDOWS\SYSTEM\MSVCRT.DLL=Yes
+C:\WINDOWS\SYSTEM\Msmask32.ocx=Yes
+C:\WINDOWS\SYSTEM\THREED32.OCX=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=Yes
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\CRYSTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\CRPE32.DLL=Yes
+C:\WINDOWS\SYSTEM\IMPLODE.DLL=Yes
+C:\WINDOWS\SYSTEM\PG32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\CO2C40EN.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT20.DLL=Yes
+C:\WINDOWS\SYSTEM\crxlat32.dll=Yes
+C:\WINDOWS\SYSTEM\P2BBND.DLL=Yes
+C:\WINDOWS\SYSTEM\P2BDAO.DLL=Yes
+C:\WINDOWS\SYSTEM\P2CTDAO.DLL=Yes
+C:\WINDOWS\SYSTEM\P2IRDAO.DLL=Yes
+C:\WINDOWS\SYSTEM\P2SODBC.DLL=Yes
+C:\WINDOWS\SYSTEM\U2DDISK.DLL=Yes
+C:\WINDOWS\SYSTEM\U2DMAPI.DLL=Yes
+C:\WINDOWS\SYSTEM\U2FCR.DLL=Yes
+C:\WINDOWS\SYSTEM\U2FDIF.DLL=Yes
+C:\WINDOWS\SYSTEM\U2FHTML.DLL=Yes
+C:\WINDOWS\SYSTEM\U2FREC.DLL=Yes
+C:\WINDOWS\SYSTEM\U2FRTF.DLL=Yes
+C:\WINDOWS\SYSTEM\U2FSEPV.DLL=Yes
+C:\WINDOWS\SYSTEM\U2FTEXT.DLL=Yes
+C:\WINDOWS\SYSTEM\U2FWKS.DLL=Yes
+C:\WINDOWS\SYSTEM\U2FWORDW.DLL=Yes
+C:\WINDOWS\SYSTEM\U2FXLS.DLL=Yes
+C:\WINDOWS\SYSTEM\ReportX.ocx=Yes
+C:\WINDOWS\SYSTEM\MSVBVM50.DLL=Yes
+C:\WINDOWS\SYSTEM\CTL3D32.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSADODC.OCX=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\Arquivos\vbprojects\Descasque\referencias.rpt=Yes
+D:\Arquivos\vbprojects\Descasque\APAGAR.RPT=Yes
+D:\Arquivos\vbprojects\Descasque\descascadores.rpt=Yes
+D:\Arquivos\vbprojects\Descasque\fechamento.rpt=Yes
+D:\Arquivos\vbprojects\Descasque\geral.rpt=Yes
+D:\Arquivos\vbprojects\Descasque\PAGAS.RPT=Yes
+D:\Arquivos\vbprojects\Descasque\descasque.mdb=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+D:\Arquivos\vbprojects\Descasque\DescasquePJ.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\hhctrl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\itss.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\itircl.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\HH.EXE=$(WinSysPath)
+C:\Arquivos de programas\Arquivos comuns\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\SYSTEM\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\Msmask32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\THREED32.OCX=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CRYSTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CRPE32.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\IMPLODE.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\PG32.DLL=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\CO2C40EN.DLL=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT20.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\crxlat32.dll=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\P2BBND.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\P2BDAO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\P2CTDAO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\P2IRDAO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\P2SODBC.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\U2DDISK.DLL=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\U2DMAPI.DLL=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\U2FCR.DLL=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\U2FDIF.DLL=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\U2FHTML.DLL=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\U2FREC.DLL=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\U2FRTF.DLL=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\U2FSEPV.DLL=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\U2FTEXT.DLL=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\U2FWKS.DLL=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\U2FWORDW.DLL=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\U2FXLS.DLL=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\ReportX.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVBVM50.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\CTL3D32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSADODC.OCX=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Arquivos\vbprojects\Descasque\referencias.rpt=$(AppPath)
+D:\Arquivos\vbprojects\Descasque\APAGAR.RPT=$(AppPath)
+D:\Arquivos\vbprojects\Descasque\descascadores.rpt=$(AppPath)
+D:\Arquivos\vbprojects\Descasque\fechamento.rpt=$(AppPath)
+D:\Arquivos\vbprojects\Descasque\geral.rpt=$(AppPath)
+D:\Arquivos\vbprojects\Descasque\PAGAS.RPT=$(AppPath)
+D:\Arquivos\vbprojects\Descasque\descasque.mdb=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\CRXLAT32.DLL=$(WinPath)\Crystal
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2DMAPI.DLL=$(WinPath)\Crystal
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FCR.DLL=$(WinPath)\Crystal
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FDIF.DLL=$(WinPath)\Crystal
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FHTML.DLL=$(WinPath)\Crystal
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FREC.DLL=$(WinPath)\Crystal
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FRTF.DLL=$(WinPath)\Crystal
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FSEPV.DLL=$(WinPath)\Crystal
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FTEXT.DLL=$(WinPath)\Crystal
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FWKS.DLL=$(WinPath)\Crystal
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FWORDW.DLL=$(WinPath)\Crystal
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FXLS.DLL=$(WinPath)\Crystal
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+D:\Arquivos\vbprojects\Descasque\DescasquePJ.exe=No
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\Arquivos\vbprojects\Descasque\referencias.rpt=No
+D:\Arquivos\vbprojects\Descasque\APAGAR.RPT=No
+D:\Arquivos\vbprojects\Descasque\descascadores.rpt=No
+D:\Arquivos\vbprojects\Descasque\fechamento.rpt=No
+D:\Arquivos\vbprojects\Descasque\geral.rpt=No
+D:\Arquivos\vbprojects\Descasque\PAGAS.RPT=No
+D:\Arquivos\vbprojects\Descasque\descasque.mdb=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=1.44 MB
+Title=Descasque Accessory Plastic
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=D:\Arquivos\Package\descasque
+ProjectFolder=D:\Arquivos\vbprojects\Descasque
+ServerSideCab=
+File1=D:\Arquivos\Package\descasque\setup.exe
+File2=D:\Arquivos\Package\descasque\Setup.Lst
+File3=D:\Arquivos\Package\descasque\DescasquePJ.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Descasque Accessory Plastic
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Descasque Accessory Plastic]
+Icon1=DescasquePJ.exe
+Title1=Descasque Accessory Plastic
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Descasque PJ Plastika|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Arquivos\Package\descasque
+
+[Package|Descasque PJ Plastika|Configure DAO ISAMs]
+Applicable=Yes
+Jet 2.x=No
+Lotus=No
+Exchange=No
+Text=No
+Paradox=No
+Excel=No
+Xbase=No
+
+[Package|Descasque PJ Plastika|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Descasque PJ Plastika|Files Found]
+CRXLAT32.DLL=C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\CRXLAT32.DLL
+U2DMAPI.DLL=C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2DMAPI.DLL
+U2FCR.DLL=C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FCR.DLL
+
+[Package|Descasque PJ Plastika|Files Released]
+PcScale.dll=
+
+[Package|Descasque PJ Plastika|Missing Dependency Information]
+
+[Package|Descasque PJ Plastika|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\CRYSTL32.OCX=
+C:\WINDOWS\SYSTEM\scrrun.dll=
+
+[Package|Descasque PJ Plastika|Files Added]
+d:\arquivos\vbprojects\descasque\referencias.rpt=
+d:\arquivos\vbprojects\descasque\apagar.rpt=
+d:\arquivos\vbprojects\descasque\descascadores.rpt=
+d:\arquivos\vbprojects\descasque\fechamento.rpt=
+d:\arquivos\vbprojects\descasque\geral.rpt=
+d:\arquivos\vbprojects\descasque\pagas.rpt=
+d:\arquivos\vbprojects\descasque\descasque.mdb=
+
+[Package|Descasque PJ Plastika|Files Removed]
+
+[Package|Descasque PJ Plastika|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\hhctrl.ocx=Yes
+C:\WINDOWS\SYSTEM\itss.dll=Yes
+C:\WINDOWS\SYSTEM\itircl.dll=Yes
+C:\WINDOWS\SYSTEM\HH.EXE=Yes
+C:\Arquivos de programas\Arquivos comuns\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJET35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJTER35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJINT35.DLL=Yes
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=Yes
+C:\WINDOWS\SYSTEM\expsrv.dll=Yes
+C:\WINDOWS\SYSTEM\MSRD2X35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSREPL35.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\SYSTEM\VB5DB.DLL=Yes
+C:\WINDOWS\SYSTEM\scrrun.dll=Yes
+C:\WINDOWS\SYSTEM\MSVCRT.DLL=Yes
+C:\WINDOWS\SYSTEM\Msmask32.ocx=Yes
+C:\WINDOWS\SYSTEM\THREED32.OCX=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=Yes
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\CRYSTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\CRPE32.DLL=Yes
+C:\WINDOWS\SYSTEM\IMPLODE.DLL=Yes
+C:\WINDOWS\SYSTEM\PG32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\CO2C40EN.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT20.DLL=Yes
+C:\WINDOWS\SYSTEM\P2BBND.DLL=Yes
+C:\WINDOWS\SYSTEM\P2BDAO.DLL=Yes
+C:\WINDOWS\SYSTEM\P2CTDAO.DLL=Yes
+C:\WINDOWS\SYSTEM\P2IRDAO.DLL=Yes
+C:\WINDOWS\SYSTEM\P2SODBC.DLL=Yes
+C:\WINDOWS\SYSTEM\U2DDISK.DLL=Yes
+C:\WINDOWS\SYSTEM\ReportX.ocx=Yes
+C:\WINDOWS\SYSTEM\MSVBVM50.DLL=Yes
+C:\WINDOWS\SYSTEM\CTL3D32.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSADODC.OCX=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\Arquivos\vbprojects\Descasque\referencias.rpt=Yes
+D:\Arquivos\vbprojects\Descasque\APAGAR.RPT=Yes
+D:\Arquivos\vbprojects\Descasque\descascadores.rpt=Yes
+D:\Arquivos\vbprojects\Descasque\fechamento.rpt=Yes
+D:\Arquivos\vbprojects\Descasque\geral.rpt=Yes
+D:\Arquivos\vbprojects\Descasque\PAGAS.RPT=Yes
+D:\Arquivos\vbprojects\Descasque\descasque.mdb=Yes
+D:\Arquivos\vbprojects\Descasque\Descasque.exe=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\CRXLAT32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2DMAPI.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FCR.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FDIF.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FHTML.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FREC.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FRTF.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FSEPV.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FTEXT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FWKS.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FWORDW.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FXLS.DLL=Yes
+
+[Package|Descasque PJ Plastika|Configure Registry Files]
+Applicable=No
+
+[Package|Descasque PJ Plastika|Configure Remote Servers]
+Applicable=No
+
+[Package|Descasque PJ Plastika|Install Locations]
+D:\Arquivos\vbprojects\Descasque\DescasquePJ.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\hhctrl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\itss.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\itircl.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\HH.EXE=$(WinSysPath)
+C:\Arquivos de programas\Arquivos comuns\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\SYSTEM\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\Msmask32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\THREED32.OCX=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CRYSTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CRPE32.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\IMPLODE.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\PG32.DLL=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\CO2C40EN.DLL=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT20.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\crxlat32.dll=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\P2BBND.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\P2BDAO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\P2CTDAO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\P2IRDAO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\P2SODBC.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\U2DDISK.DLL=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\U2DMAPI.DLL=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\U2FCR.DLL=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\U2FDIF.DLL=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\U2FHTML.DLL=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\U2FREC.DLL=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\U2FRTF.DLL=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\U2FSEPV.DLL=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\U2FTEXT.DLL=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\U2FWKS.DLL=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\U2FWORDW.DLL=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\U2FXLS.DLL=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\ReportX.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVBVM50.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\CTL3D32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSADODC.OCX=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Arquivos\vbprojects\Descasque\referencias.rpt=$(AppPath)
+D:\Arquivos\vbprojects\Descasque\APAGAR.RPT=$(AppPath)
+D:\Arquivos\vbprojects\Descasque\descascadores.rpt=$(AppPath)
+D:\Arquivos\vbprojects\Descasque\fechamento.rpt=$(AppPath)
+D:\Arquivos\vbprojects\Descasque\geral.rpt=$(AppPath)
+D:\Arquivos\vbprojects\Descasque\PAGAS.RPT=$(AppPath)
+D:\Arquivos\vbprojects\Descasque\descasque.mdb=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\CRXLAT32.DLL=$(WinPath)\Crystal
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2DMAPI.DLL=$(WinPath)\Crystal
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FCR.DLL=$(WinPath)\Crystal
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FDIF.DLL=$(WinPath)\Crystal
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FHTML.DLL=$(WinPath)\Crystal
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FREC.DLL=$(WinPath)\Crystal
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FRTF.DLL=$(WinPath)\Crystal
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FSEPV.DLL=$(WinPath)\Crystal
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FTEXT.DLL=$(WinPath)\Crystal
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FWKS.DLL=$(WinPath)\Crystal
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FWORDW.DLL=$(WinPath)\Crystal
+C:\Arquivos de programas\Microsoft Visual Studio\Common\Tools\REPORTS\U2FXLS.DLL=$(WinPath)\Crystal
+D:\Arquivos\vbprojects\Descasque\Descasque.exe=$(AppPath)
+
+[Package|Descasque PJ Plastika|Configure Shared Files]
+Applicable=Yes
+D:\Arquivos\vbprojects\Descasque\DescasquePJ.exe=No
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\Arquivos\vbprojects\Descasque\referencias.rpt=No
+D:\Arquivos\vbprojects\Descasque\APAGAR.RPT=No
+D:\Arquivos\vbprojects\Descasque\descascadores.rpt=No
+D:\Arquivos\vbprojects\Descasque\fechamento.rpt=No
+D:\Arquivos\vbprojects\Descasque\geral.rpt=No
+D:\Arquivos\vbprojects\Descasque\PAGAS.RPT=No
+D:\Arquivos\vbprojects\Descasque\descasque.mdb=No
+D:\Arquivos\vbprojects\Descasque\Descasque.exe=No
+
+[Package|Descasque PJ Plastika|Distribution]
+Type=single
+Size=1.44 MB
+Title=Descasque PJ Plastika
+
+[Package|Descasque PJ Plastika|Package]
+PackageFolder=D:\Arquivos\Package\descasque
+ProjectFolder=D:\Arquivos\vbprojects\Descasque
+ServerSideCab=
+File1=D:\Arquivos\Package\descasque\setup.exe
+File2=D:\Arquivos\Package\descasque\Setup.Lst
+File3=D:\Arquivos\Package\descasque\Descasque.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Descasque PJ Plastika|IconGroups]
+Group0=Descasque PJ Plastika
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Descasque PJ Plastika|Descasque PJ Plastika]
+Icon1=Descasque.exe
+Title1=Descasque PJ Plastika
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Descasque Installation|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Arquivos\vbprojects\descasque mysql\Package
+
+[Package|Descasque Installation|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Descasque Installation|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Descasque Installation|Files Found]
+
+[Package|Descasque Installation|Files Released]
+PcScale.dll=
+
+[Package|Descasque Installation|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\PcScale.dll=
+
+[Package|Descasque Installation|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\RepXHTM.dll=
+C:\WINDOWS\SYSTEM\MSVBVM50.DLL=
+C:\WINDOWS\SYSTEM\scrrun.dll=
+
+[Package|Descasque Installation|Files Added]
+
+[Package|Descasque Installation|Files Removed]
+
+[Package|Descasque Installation|Files In Project]
+D:\Arquivos\vbprojects\descasque mysql\Descasque.exe=Yes
+C:\WINDOWS\SYSTEM\msvbvm60.dll=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\scrrun.dll=Yes
+C:\WINDOWS\SYSTEM\MSVCRT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=Yes
+C:\WINDOWS\SYSTEM\THREED32.OCX=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\SYSTEM\Msflxgrd.ocx=Yes
+C:\WINDOWS\SYSTEM\tabctl32.ocx=Yes
+C:\WINDOWS\SYSTEM\ReportX.ocx=Yes
+C:\WINDOWS\SYSTEM\MSVBVM50.DLL=Yes
+C:\WINDOWS\SYSTEM\CTL3D32.DLL=Yes
+C:\WINDOWS\SYSTEM\RepXHTM.dll=Yes
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\msstdfmt.dll=Yes
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\SYSTEM\PcScale.dll=Yes
+
+[Package|Descasque Installation|Configure Registry Files]
+Applicable=No
+
+[Package|Descasque Installation|Configure Remote Servers]
+Applicable=No
+
+[Package|Descasque Installation|Install Locations]
+D:\Arquivos\vbprojects\descasque mysql\Descasque.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\THREED32.OCX=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\Msflxgrd.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\ReportX.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVBVM50.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\CTL3D32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\RepXHTM.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\msstdfmt.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\PcScale.dll=$(WinSysPath)
+
+[Package|Descasque Installation|Configure Shared Files]
+Applicable=Yes
+D:\Arquivos\vbprojects\descasque mysql\Descasque.exe=No
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Descasque Installation|Distribution]
+Type=single
+Size=
+Title=Instalação do Descasque
+
+[Package|Descasque Installation|Package]
+PackageFolder=D:\Arquivos\vbprojects\descasque mysql\Package
+ProjectFolder=D:\Arquivos\vbprojects\descasque mysql
+ServerSideCab=
+File1=D:\Arquivos\vbprojects\descasque mysql\Package\setup.exe
+File2=D:\Arquivos\vbprojects\descasque mysql\Package\Setup.Lst
+File3=D:\Arquivos\vbprojects\descasque mysql\Package\descasque.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Descasque Installation|IconGroups]
+Group0=Descasque
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Descasque Installation|Descasque]
+Icon1=descasque.exe
+Title1=Descasque
+StartIn1=$(AppPath)
+Key1=Icon1
