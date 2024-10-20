@@ -1,0 +1,44 @@
+;*** BEGIN **********************************************************
+;**                                                                **
+;** Automatically generated on: Tue Feb 06 17:59:49 2007           **
+;**                                                                **
+;** MakeCAB Version: 5.1.2600.2180                     **
+;**                                                                **
+;*** BEGIN **********************************************************
+[disk list]
+1,Disk 1
+2,Disk 2
+[cabinet list]
+1,1,DESCASQUE.CAB
+2,2,DESCASQUE.CAB
+[file list]
+1,1,DESCASQUE.CAB,968582
+1,1,tbl_dados.frm,8854
+1,1,tbl_dados.MYD,568724
+1,1,tbl_dados.MYI,252928
+1,1,tbl_descascador.frm,8912
+1,1,tbl_descascador.MYD,6928
+1,1,tbl_descascador.MYI,2048
+1,1,tbl_entrada_mp.frm,8626
+1,1,tbl_entrada_mp.MYD,9581
+1,1,tbl_entrada_mp.MYI,16384
+1,1,tbl_entrega.frm,8842
+1,1,tbl_entrega.MYD,2431004
+2,2,tbl_entrega.MYI,1024
+2,2,tbl_fichas.frm,8760
+2,2,tbl_fichas.MYD,10196
+2,2,tbl_fichas.MYI,2048
+2,2,tbl_mp.frm,8604
+2,2,tbl_mp.MYD,1312
+2,2,tbl_mp.MYI,3072
+2,2,tbl_obs.frm,8714
+2,2,tbl_obs.MYD,8492
+2,2,tbl_obs.MYI,2048
+2,2,tbl_precos.frm,8678
+2,2,tbl_precos.MYD,18824
+2,2,tbl_precos.MYI,16384
+;*** END ************************************************************
+;**                                                                **
+;** Automatically generated on: Tue Feb 06 17:59:49 2007           **
+;**                                                                **
+;*** END ************************************************************
