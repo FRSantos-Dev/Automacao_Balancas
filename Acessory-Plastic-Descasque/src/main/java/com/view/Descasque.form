@@ -49,18 +49,18 @@
               <Group type="102" alignment="0" attributes="0">
                   <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                      <Component id="jButton4" pref="0" max="32767" attributes="0"/>
-                      <Component id="jButton1" pref="82" max="32767" attributes="0"/>
+                      <Component id="descasqueFechamento" pref="0" max="32767" attributes="0"/>
+                      <Component id="descasqueControle" pref="82" max="32767" attributes="0"/>
                   </Group>
                   <EmptySpace max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                      <Component id="jButton5" max="32767" attributes="0"/>
-                      <Component id="jButton2" min="-2" pref="91" max="-2" attributes="0"/>
+                      <Component id="descasqueRelatorios" max="32767" attributes="0"/>
+                      <Component id="descasqueDescascador" min="-2" pref="91" max="-2" attributes="0"/>
                   </Group>
                   <EmptySpace max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="0" attributes="0">
-                      <Component id="jButton3" pref="78" max="32767" attributes="0"/>
-                      <Component id="jButton6" max="32767" attributes="0"/>
+                      <Component id="descasqueCheques" pref="78" max="32767" attributes="0"/>
+                      <Component id="descasqueSair" max="32767" attributes="0"/>
                   </Group>
                   <EmptySpace max="-2" attributes="0"/>
               </Group>
@@ -71,15 +71,15 @@
               <Group type="102" alignment="0" attributes="0">
                   <EmptySpace min="-2" pref="15" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="3" attributes="0">
-                      <Component id="jButton1" alignment="3" min="-2" pref="57" max="-2" attributes="0"/>
-                      <Component id="jButton2" alignment="3" min="-2" pref="57" max="-2" attributes="0"/>
-                      <Component id="jButton3" alignment="3" min="-2" pref="57" max="-2" attributes="0"/>
+                      <Component id="descasqueControle" alignment="3" min="-2" pref="57" max="-2" attributes="0"/>
+                      <Component id="descasqueDescascador" alignment="3" min="-2" pref="57" max="-2" attributes="0"/>
+                      <Component id="descasqueCheques" alignment="3" min="-2" pref="57" max="-2" attributes="0"/>
                   </Group>
                   <EmptySpace max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="3" attributes="0">
-                      <Component id="jButton4" alignment="3" min="-2" pref="57" max="-2" attributes="0"/>
-                      <Component id="jButton5" alignment="3" min="-2" pref="57" max="-2" attributes="0"/>
-                      <Component id="jButton6" alignment="3" min="-2" pref="57" max="-2" attributes="0"/>
+                      <Component id="descasqueFechamento" alignment="3" min="-2" pref="57" max="-2" attributes="0"/>
+                      <Component id="descasqueRelatorios" alignment="3" min="-2" pref="57" max="-2" attributes="0"/>
+                      <Component id="descasqueSair" alignment="3" min="-2" pref="57" max="-2" attributes="0"/>
                   </Group>
                   <EmptySpace pref="20" max="32767" attributes="0"/>
               </Group>
@@ -87,32 +87,32 @@
         </DimensionLayout>
       </Layout>
       <SubComponents>
-        <Component class="javax.swing.JButton" name="jButton1">
+        <Component class="javax.swing.JButton" name="descasqueControle">
           <Properties>
             <Property name="text" type="java.lang.String" value="Controle"/>
           </Properties>
         </Component>
-        <Component class="javax.swing.JButton" name="jButton2">
+        <Component class="javax.swing.JButton" name="descasqueDescascador">
           <Properties>
             <Property name="text" type="java.lang.String" value="Descascador"/>
           </Properties>
         </Component>
-        <Component class="javax.swing.JButton" name="jButton3">
+        <Component class="javax.swing.JButton" name="descasqueCheques">
           <Properties>
             <Property name="text" type="java.lang.String" value="Cheques"/>
           </Properties>
         </Component>
-        <Component class="javax.swing.JButton" name="jButton4">
+        <Component class="javax.swing.JButton" name="descasqueFechamento">
           <Properties>
             <Property name="text" type="java.lang.String" value="Fechamento"/>
           </Properties>
         </Component>
-        <Component class="javax.swing.JButton" name="jButton5">
+        <Component class="javax.swing.JButton" name="descasqueRelatorios">
           <Properties>
             <Property name="text" type="java.lang.String" value="Relat&#xf3;rios"/>
           </Properties>
         </Component>
-        <Component class="javax.swing.JButton" name="jButton6">
+        <Component class="javax.swing.JButton" name="descasqueSair">
           <Properties>
             <Property name="text" type="java.lang.String" value="Sair"/>
           </Properties>
