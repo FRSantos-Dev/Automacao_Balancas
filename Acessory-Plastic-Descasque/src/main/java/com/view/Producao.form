@@ -46,91 +46,91 @@
                       <Group type="103" groupAlignment="1" attributes="0">
                           <Group type="102" attributes="0">
                               <Group type="103" groupAlignment="0" attributes="0">
-                                  <Component id="label22" min="-2" max="-2" attributes="0"/>
-                                  <Component id="label23" alignment="0" min="-2" pref="61" max="-2" attributes="0"/>
+                                  <Component id="prodDataIniLabel" min="-2" max="-2" attributes="0"/>
+                                  <Component id="prodDataFinLabel" alignment="0" min="-2" pref="61" max="-2" attributes="0"/>
                               </Group>
                               <EmptySpace max="-2" attributes="0"/>
                               <Group type="103" groupAlignment="0" attributes="0">
-                                  <Component id="textField12" alignment="0" min="-2" pref="84" max="-2" attributes="0"/>
+                                  <Component id="prodDataIniInput" alignment="0" min="-2" pref="84" max="-2" attributes="0"/>
                                   <Group type="102" alignment="0" attributes="0">
-                                      <Component id="textField13" min="-2" pref="84" max="-2" attributes="0"/>
+                                      <Component id="prodDataFinInput" min="-2" pref="84" max="-2" attributes="0"/>
                                       <EmptySpace max="-2" attributes="0"/>
                                       <Component id="label25" min="-2" max="-2" attributes="0"/>
                                   </Group>
                               </Group>
                               <EmptySpace pref="60" max="32767" attributes="0"/>
                               <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                                  <Component id="label27" max="32767" attributes="0"/>
-                                  <Component id="label26" max="32767" attributes="0"/>
+                                  <Component id="prodTotalProdLabel" max="32767" attributes="0"/>
+                                  <Component id="prodTotalMpLabel" max="32767" attributes="0"/>
                               </Group>
                               <EmptySpace max="-2" attributes="0"/>
                               <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                                  <Component id="textField14" max="32767" attributes="0"/>
-                                  <Component id="textField15" pref="176" max="32767" attributes="0"/>
+                                  <Component id="prodTotalMpInput" max="32767" attributes="0"/>
+                                  <Component id="prodTotalProdInput" pref="176" max="32767" attributes="0"/>
                               </Group>
                           </Group>
                           <Group type="102" alignment="1" attributes="0">
                               <Group type="103" groupAlignment="0" attributes="0">
                                   <Group type="102" alignment="1" attributes="0">
                                       <Group type="103" groupAlignment="1" max="-2" attributes="0">
-                                          <Component id="label19" alignment="0" min="-2" max="-2" attributes="0"/>
-                                          <Component id="label18" alignment="0" min="-2" pref="83" max="-2" attributes="0"/>
+                                          <Component id="prodMpSecLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="prodMpPrincipalLabel" alignment="0" min="-2" pref="83" max="-2" attributes="0"/>
                                       </Group>
                                       <EmptySpace min="-2" max="-2" attributes="0"/>
                                   </Group>
                                   <Group type="102" alignment="0" attributes="0">
-                                      <Component id="label20" min="-2" max="-2" attributes="0"/>
+                                      <Component id="prodObserLabel" min="-2" max="-2" attributes="0"/>
                                       <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
                                   </Group>
                               </Group>
                               <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                                  <Component id="textArea1" pref="421" max="32767" attributes="0"/>
-                                  <Component id="choice4" alignment="0" max="32767" attributes="0"/>
-                                  <Component id="choice3" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="prodObserv" pref="421" max="32767" attributes="0"/>
+                                  <Component id="prodMpSecEscolhas" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="prodMpPrincipalEscolhas" alignment="0" max="32767" attributes="0"/>
                               </Group>
                           </Group>
                           <Group type="102" alignment="1" attributes="0">
                               <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                                  <Component id="label1" alignment="0" min="-2" pref="134" max="-2" attributes="0"/>
+                                  <Component id="prodEntradaLabel" alignment="0" min="-2" pref="134" max="-2" attributes="0"/>
                                   <Group type="102" alignment="0" attributes="0">
-                                      <Component id="label4" min="-2" max="-2" attributes="0"/>
+                                      <Component id="prodHoraEntradaLabel" min="-2" max="-2" attributes="0"/>
                                       <EmptySpace max="-2" attributes="0"/>
-                                      <Component id="textField3" max="32767" attributes="0"/>
+                                      <Component id="prodHoraEntradaInput" max="32767" attributes="0"/>
                                   </Group>
                                   <Group type="102" alignment="0" attributes="0">
                                       <Group type="103" groupAlignment="0" attributes="0">
-                                          <Component id="label2" alignment="0" min="-2" max="-2" attributes="0"/>
-                                          <Component id="label3" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="prodMoldeLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="prodDataLabel" alignment="0" min="-2" max="-2" attributes="0"/>
                                       </Group>
                                       <EmptySpace min="-2" pref="49" max="-2" attributes="0"/>
                                       <Group type="103" groupAlignment="1" attributes="0">
-                                          <Component id="textField1" min="-2" pref="151" max="-2" attributes="0"/>
-                                          <Component id="textField2" min="-2" pref="151" max="-2" attributes="0"/>
+                                          <Component id="prodMoldeInput" min="-2" pref="151" max="-2" attributes="0"/>
+                                          <Component id="prodDataInput" min="-2" pref="151" max="-2" attributes="0"/>
                                       </Group>
                                   </Group>
                                   <Group type="102" alignment="1" attributes="0">
                                       <Group type="103" groupAlignment="0" attributes="0">
-                                          <Component id="label5" min="-2" max="-2" attributes="0"/>
-                                          <Component id="label6" alignment="0" min="-2" max="-2" attributes="0"/>
-                                          <Component id="label7" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="prodTurnoLabel" min="-2" max="-2" attributes="0"/>
+                                          <Component id="prodCavidadesLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="prodInjecoesLabel" alignment="0" min="-2" max="-2" attributes="0"/>
                                       </Group>
                                       <EmptySpace min="24" max="32767" attributes="0"/>
                                       <Group type="103" groupAlignment="1" max="-2" attributes="0">
-                                          <Component id="textField5" alignment="0" max="32767" attributes="0"/>
-                                          <Component id="textField6" alignment="0" max="32767" attributes="0"/>
-                                          <Component id="choice1" alignment="0" pref="151" max="32767" attributes="0"/>
+                                          <Component id="prodCavidadesInput" alignment="0" max="32767" attributes="0"/>
+                                          <Component id="prodInjecoesInput" alignment="0" max="32767" attributes="0"/>
+                                          <Component id="prodTurnoEscolha" alignment="0" pref="151" max="32767" attributes="0"/>
                                       </Group>
                                   </Group>
                               </Group>
                               <EmptySpace min="-2" pref="143" max="-2" attributes="0"/>
                               <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                                  <Component id="label14" alignment="1" max="32767" attributes="0"/>
-                                  <Component id="label10" max="32767" attributes="0"/>
-                                  <Component id="label8" alignment="0" max="32767" attributes="0"/>
-                                  <Component id="label9" alignment="0" max="32767" attributes="0"/>
-                                  <Component id="label11" alignment="0" max="32767" attributes="0"/>
-                                  <Component id="label12" alignment="0" max="32767" attributes="0"/>
-                                  <Component id="label13" max="32767" attributes="0"/>
+                                  <Component id="prodTotalCiclosLabel" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="prodMpPrincConsumidaLabel" max="32767" attributes="0"/>
+                                  <Component id="prodMaquinaLabel" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="prodProducaoLabel" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="prodMpSecConsumidaLabel" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="prodMpTotalConsumidaLabel" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="prodTempoInjLabel" max="32767" attributes="0"/>
                               </Group>
                           </Group>
                       </Group>
@@ -138,32 +138,32 @@
                           <Group type="102" attributes="0">
                               <EmptySpace max="-2" attributes="0"/>
                               <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                                  <Component id="choice2" pref="151" max="32767" attributes="0"/>
-                                  <Component id="textField4" max="32767" attributes="0"/>
-                                  <Component id="textField7" max="32767" attributes="0"/>
-                                  <Component id="textField8" max="32767" attributes="0"/>
-                                  <Component id="textField9" max="32767" attributes="0"/>
-                                  <Component id="textField10" max="32767" attributes="0"/>
-                                  <Component id="textField11" max="32767" attributes="0"/>
+                                  <Component id="prodMaquinaLabelEscolhas" pref="151" max="32767" attributes="0"/>
+                                  <Component id="prodProducaoInput" max="32767" attributes="0"/>
+                                  <Component id="prodMpPrincConsumidaInput" max="32767" attributes="0"/>
+                                  <Component id="prodMpSecConsumidaInput" max="32767" attributes="0"/>
+                                  <Component id="prodMpTotalConsumidaInput" max="32767" attributes="0"/>
+                                  <Component id="prodTempoInjInput" max="32767" attributes="0"/>
+                                  <Component id="prodTotalCiclosInput" max="32767" attributes="0"/>
                               </Group>
                               <EmptySpace max="-2" attributes="0"/>
                               <Group type="103" groupAlignment="0" attributes="0">
-                                  <Component id="label17" alignment="0" min="-2" max="-2" attributes="0"/>
-                                  <Component id="label15" alignment="0" min="-2" max="-2" attributes="0"/>
-                                  <Component id="label16" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="prodMpTotalConsumidaLabelKg" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="prodMpPrincConsumidaLabelKg" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="prodMpSecConsumidaLabelKg" alignment="0" min="-2" max="-2" attributes="0"/>
                               </Group>
                               <EmptySpace pref="26" max="32767" attributes="0"/>
                               <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                                  <Component id="jButton5" max="32767" attributes="0"/>
-                                  <Component id="jButton2" max="32767" attributes="0"/>
-                                  <Component id="jButton1" alignment="1" max="32767" attributes="0"/>
-                                  <Component id="jButton4" alignment="1" max="32767" attributes="0"/>
-                                  <Component id="jButton3" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="prodSair" max="32767" attributes="0"/>
+                                  <Component id="prodExcluir" max="32767" attributes="0"/>
+                                  <Component id="prodSalvar" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="prodRelatorios" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="prodFichas" alignment="1" max="32767" attributes="0"/>
                               </Group>
                           </Group>
                           <Group type="102" alignment="0" attributes="0">
                               <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
-                              <Component id="jButton6" min="-2" pref="83" max="-2" attributes="0"/>
+                              <Component id="prodAtualizar" min="-2" pref="83" max="-2" attributes="0"/>
                               <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
                           </Group>
                       </Group>
@@ -171,13 +171,13 @@
                   <Group type="102" attributes="0">
                       <Group type="103" groupAlignment="0" attributes="0">
                           <Group type="102" attributes="0">
-                              <Component id="label24" min="-2" pref="61" max="-2" attributes="0"/>
+                              <Component id="prodProdLabel" min="-2" pref="61" max="-2" attributes="0"/>
                               <EmptySpace max="-2" attributes="0"/>
-                              <Component id="choice5" min="-2" pref="130" max="-2" attributes="0"/>
+                              <Component id="prodProdEscolha" min="-2" pref="130" max="-2" attributes="0"/>
                           </Group>
                           <Group type="102" attributes="0">
                               <EmptySpace min="-2" pref="170" max="-2" attributes="0"/>
-                              <Component id="label21" min="-2" pref="317" max="-2" attributes="0"/>
+                              <Component id="prodTotalSemanalLabel" min="-2" pref="317" max="-2" attributes="0"/>
                           </Group>
                       </Group>
                       <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
@@ -195,156 +195,156 @@
                       <EmptySpace max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="1" attributes="0">
                           <Group type="102" attributes="0">
-                              <Component id="label1" min="-2" max="-2" attributes="0"/>
+                              <Component id="prodEntradaLabel" min="-2" max="-2" attributes="0"/>
                               <EmptySpace max="-2" attributes="0"/>
                               <Group type="103" groupAlignment="1" attributes="0">
-                                  <Component id="label2" min="-2" max="-2" attributes="0"/>
-                                  <Component id="textField1" min="-2" max="-2" attributes="0"/>
-                                  <Component id="label8" min="-2" max="-2" attributes="0"/>
+                                  <Component id="prodMoldeLabel" min="-2" max="-2" attributes="0"/>
+                                  <Component id="prodMoldeInput" min="-2" max="-2" attributes="0"/>
+                                  <Component id="prodMaquinaLabel" min="-2" max="-2" attributes="0"/>
                               </Group>
                           </Group>
-                          <Component id="choice2" min="-2" max="-2" attributes="0"/>
+                          <Component id="prodMaquinaLabelEscolhas" min="-2" max="-2" attributes="0"/>
                       </Group>
                       <EmptySpace max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="0" attributes="0">
                           <Group type="102" alignment="0" attributes="0">
                               <Group type="103" groupAlignment="1" attributes="0">
-                                  <Component id="label3" min="-2" max="-2" attributes="0"/>
-                                  <Component id="textField2" min="-2" max="-2" attributes="0"/>
+                                  <Component id="prodDataLabel" min="-2" max="-2" attributes="0"/>
+                                  <Component id="prodDataInput" min="-2" max="-2" attributes="0"/>
                               </Group>
                               <EmptySpace max="-2" attributes="0"/>
                               <Group type="103" groupAlignment="0" attributes="0">
-                                  <Component id="label4" alignment="0" min="-2" max="-2" attributes="0"/>
-                                  <Component id="textField3" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="prodHoraEntradaLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="prodHoraEntradaInput" alignment="0" min="-2" max="-2" attributes="0"/>
                               </Group>
                               <EmptySpace min="-2" pref="1" max="-2" attributes="0"/>
                               <Group type="103" groupAlignment="0" attributes="0">
                                   <Group type="102" attributes="0">
-                                      <Component id="label5" min="-2" max="-2" attributes="0"/>
+                                      <Component id="prodTurnoLabel" min="-2" max="-2" attributes="0"/>
                                       <EmptySpace max="-2" attributes="0"/>
-                                      <Component id="label6" min="-2" max="-2" attributes="0"/>
+                                      <Component id="prodCavidadesLabel" min="-2" max="-2" attributes="0"/>
                                   </Group>
                                   <Group type="102" alignment="1" attributes="0">
                                       <Group type="103" groupAlignment="1" attributes="0">
-                                          <Component id="label11" min="-2" max="-2" attributes="0"/>
-                                          <Component id="choice1" min="-2" max="-2" attributes="0"/>
-                                          <Component id="textField8" alignment="1" min="-2" max="-2" attributes="0"/>
-                                          <Component id="label16" alignment="1" min="-2" max="-2" attributes="0"/>
+                                          <Component id="prodMpSecConsumidaLabel" min="-2" max="-2" attributes="0"/>
+                                          <Component id="prodTurnoEscolha" min="-2" max="-2" attributes="0"/>
+                                          <Component id="prodMpSecConsumidaInput" alignment="1" min="-2" max="-2" attributes="0"/>
+                                          <Component id="prodMpSecConsumidaLabelKg" alignment="1" min="-2" max="-2" attributes="0"/>
                                       </Group>
                                       <EmptySpace max="-2" attributes="0"/>
                                       <Group type="103" groupAlignment="0" attributes="0">
-                                          <Component id="textField5" min="-2" max="-2" attributes="0"/>
-                                          <Component id="label12" alignment="0" min="-2" max="-2" attributes="0"/>
-                                          <Component id="textField9" min="-2" max="-2" attributes="0"/>
-                                          <Component id="label17" min="-2" max="-2" attributes="0"/>
+                                          <Component id="prodCavidadesInput" min="-2" max="-2" attributes="0"/>
+                                          <Component id="prodMpTotalConsumidaLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="prodMpTotalConsumidaInput" min="-2" max="-2" attributes="0"/>
+                                          <Component id="prodMpTotalConsumidaLabelKg" min="-2" max="-2" attributes="0"/>
                                       </Group>
                                   </Group>
                               </Group>
                           </Group>
                           <Group type="103" alignment="0" groupAlignment="1" attributes="0">
-                              <Component id="label15" min="-2" max="-2" attributes="0"/>
+                              <Component id="prodMpPrincConsumidaLabelKg" min="-2" max="-2" attributes="0"/>
                               <Group type="103" groupAlignment="1" max="-2" attributes="0">
                                   <Group type="102" attributes="0">
-                                      <Component id="textField4" min="-2" max="-2" attributes="0"/>
+                                      <Component id="prodProducaoInput" min="-2" max="-2" attributes="0"/>
                                       <EmptySpace max="32767" attributes="0"/>
-                                      <Component id="textField7" min="-2" max="-2" attributes="0"/>
+                                      <Component id="prodMpPrincConsumidaInput" min="-2" max="-2" attributes="0"/>
                                   </Group>
                                   <Group type="102" alignment="0" attributes="0">
-                                      <Component id="label9" min="-2" max="-2" attributes="0"/>
+                                      <Component id="prodProducaoLabel" min="-2" max="-2" attributes="0"/>
                                       <EmptySpace max="-2" attributes="0"/>
-                                      <Component id="label10" min="-2" max="-2" attributes="0"/>
+                                      <Component id="prodMpPrincConsumidaLabel" min="-2" max="-2" attributes="0"/>
                                   </Group>
                               </Group>
                           </Group>
                       </Group>
                       <EmptySpace max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="label7" min="-2" max="-2" attributes="0"/>
-                          <Component id="textField6" min="-2" max="-2" attributes="0"/>
+                          <Component id="prodInjecoesLabel" min="-2" max="-2" attributes="0"/>
+                          <Component id="prodInjecoesInput" min="-2" max="-2" attributes="0"/>
                           <Group type="102" alignment="0" attributes="0">
                               <Group type="103" groupAlignment="0" attributes="0">
-                                  <Component id="label13" alignment="0" min="-2" max="-2" attributes="0"/>
-                                  <Component id="textField10" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="prodTempoInjLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="prodTempoInjInput" alignment="0" min="-2" max="-2" attributes="0"/>
                               </Group>
                               <EmptySpace max="-2" attributes="0"/>
                               <Group type="103" groupAlignment="0" attributes="0">
-                                  <Component id="textField11" min="-2" max="-2" attributes="0"/>
-                                  <Component id="label14" min="-2" max="-2" attributes="0"/>
+                                  <Component id="prodTotalCiclosInput" min="-2" max="-2" attributes="0"/>
+                                  <Component id="prodTotalCiclosLabel" min="-2" max="-2" attributes="0"/>
                               </Group>
                           </Group>
                       </Group>
                       <EmptySpace max="32767" attributes="0"/>
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="label18" alignment="1" min="-2" max="-2" attributes="0"/>
-                          <Component id="choice3" alignment="1" min="-2" max="-2" attributes="0"/>
+                          <Component id="prodMpPrincipalLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                          <Component id="prodMpPrincipalEscolhas" alignment="1" min="-2" max="-2" attributes="0"/>
                       </Group>
                   </Group>
                   <Group type="102" attributes="0">
                       <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
-                      <Component id="jButton1" min="-2" pref="53" max="-2" attributes="0"/>
+                      <Component id="prodSalvar" min="-2" pref="53" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="jButton2" min="-2" pref="53" max="-2" attributes="0"/>
+                      <Component id="prodExcluir" min="-2" pref="53" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="jButton3" min="-2" pref="53" max="-2" attributes="0"/>
+                      <Component id="prodFichas" min="-2" pref="53" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="jButton4" min="-2" pref="53" max="-2" attributes="0"/>
+                      <Component id="prodRelatorios" min="-2" pref="53" max="-2" attributes="0"/>
                   </Group>
               </Group>
               <EmptySpace max="32767" attributes="0"/>
               <Group type="103" groupAlignment="0" attributes="0">
-                  <Component id="jButton5" min="-2" pref="53" max="-2" attributes="0"/>
+                  <Component id="prodSair" min="-2" pref="53" max="-2" attributes="0"/>
                   <Group type="102" alignment="0" attributes="0">
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="label19" min="-2" max="-2" attributes="0"/>
-                          <Component id="choice4" min="-2" max="-2" attributes="0"/>
+                          <Component id="prodMpSecLabel" min="-2" max="-2" attributes="0"/>
+                          <Component id="prodMpSecEscolhas" min="-2" max="-2" attributes="0"/>
                       </Group>
                       <EmptySpace max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="label20" min="-2" max="-2" attributes="0"/>
-                          <Component id="textArea1" min="-2" pref="118" max="-2" attributes="0"/>
+                          <Component id="prodObserLabel" min="-2" max="-2" attributes="0"/>
+                          <Component id="prodObserv" min="-2" pref="118" max="-2" attributes="0"/>
                       </Group>
                   </Group>
               </Group>
               <Group type="103" groupAlignment="0" attributes="0">
                   <Group type="102" attributes="0">
                       <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
-                      <Component id="label21" min="-2" max="-2" attributes="0"/>
+                      <Component id="prodTotalSemanalLabel" min="-2" max="-2" attributes="0"/>
                       <EmptySpace max="32767" attributes="0"/>
                       <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                          <Component id="jButton6" alignment="0" max="32767" attributes="0"/>
+                          <Component id="prodAtualizar" alignment="0" max="32767" attributes="0"/>
                           <Group type="102" attributes="0">
                               <Group type="103" groupAlignment="0" attributes="0">
-                                  <Component id="label26" min="-2" max="-2" attributes="0"/>
-                                  <Component id="textField14" min="-2" max="-2" attributes="0"/>
-                                  <Component id="textField12" min="-2" max="-2" attributes="0"/>
+                                  <Component id="prodTotalMpLabel" min="-2" max="-2" attributes="0"/>
+                                  <Component id="prodTotalMpInput" min="-2" max="-2" attributes="0"/>
+                                  <Component id="prodDataIniInput" min="-2" max="-2" attributes="0"/>
                               </Group>
                               <Group type="103" groupAlignment="0" attributes="0">
                                   <Group type="102" attributes="0">
                                       <EmptySpace min="-2" pref="13" max="-2" attributes="0"/>
                                       <Group type="103" groupAlignment="1" attributes="0">
                                           <Component id="label25" min="-2" max="-2" attributes="0"/>
-                                          <Component id="label27" alignment="0" min="-2" max="-2" attributes="0"/>
-                                          <Component id="textField15" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="prodTotalProdLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="prodTotalProdInput" alignment="0" min="-2" max="-2" attributes="0"/>
                                       </Group>
                                   </Group>
                                   <Group type="102" alignment="1" attributes="0">
                                       <EmptySpace max="-2" attributes="0"/>
-                                      <Component id="textField13" min="-2" max="-2" attributes="0"/>
+                                      <Component id="prodDataFinInput" min="-2" max="-2" attributes="0"/>
                                   </Group>
                               </Group>
                           </Group>
                           <Group type="102" alignment="0" attributes="0">
-                              <Component id="label22" min="-2" max="-2" attributes="0"/>
+                              <Component id="prodDataIniLabel" min="-2" max="-2" attributes="0"/>
                               <EmptySpace max="-2" attributes="0"/>
-                              <Component id="label23" min="-2" max="-2" attributes="0"/>
+                              <Component id="prodDataFinLabel" min="-2" max="-2" attributes="0"/>
                           </Group>
                       </Group>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="choice5" min="-2" max="-2" attributes="0"/>
+                      <Component id="prodProdEscolha" min="-2" max="-2" attributes="0"/>
                   </Group>
                   <Group type="102" attributes="0">
                       <EmptySpace max="32767" attributes="0"/>
-                      <Component id="label24" min="-2" max="-2" attributes="0"/>
+                      <Component id="prodProdLabel" min="-2" max="-2" attributes="0"/>
                   </Group>
               </Group>
               <EmptySpace pref="42" max="32767" attributes="0"/>
@@ -353,170 +353,170 @@
     </DimensionLayout>
   </Layout>
   <SubComponents>
-    <Component class="java.awt.Label" name="label1">
+    <Component class="java.awt.Label" name="prodEntradaLabel">
       <Properties>
         <Property name="text" type="java.lang.String" value="Entrada de Produ&#xe7;&#xe3;o"/>
       </Properties>
     </Component>
-    <Component class="java.awt.Label" name="label2">
+    <Component class="java.awt.Label" name="prodMoldeLabel">
       <Properties>
         <Property name="text" type="java.lang.String" value="Molde"/>
       </Properties>
     </Component>
-    <Component class="java.awt.TextField" name="textField1">
+    <Component class="java.awt.TextField" name="prodMoldeInput">
     </Component>
-    <Component class="java.awt.Label" name="label3">
+    <Component class="java.awt.Label" name="prodDataLabel">
       <Properties>
         <Property name="text" type="java.lang.String" value="Data"/>
       </Properties>
     </Component>
-    <Component class="java.awt.TextField" name="textField2">
+    <Component class="java.awt.TextField" name="prodDataInput">
     </Component>
-    <Component class="java.awt.Label" name="label4">
+    <Component class="java.awt.Label" name="prodHoraEntradaLabel">
       <Properties>
         <Property name="text" type="java.lang.String" value="Hora Entrada"/>
       </Properties>
     </Component>
-    <Component class="java.awt.TextField" name="textField3">
+    <Component class="java.awt.TextField" name="prodHoraEntradaInput">
     </Component>
-    <Component class="java.awt.Label" name="label5">
+    <Component class="java.awt.Label" name="prodTurnoLabel">
       <Properties>
         <Property name="text" type="java.lang.String" value="Turno"/>
       </Properties>
     </Component>
-    <Component class="java.awt.Label" name="label6">
+    <Component class="java.awt.Label" name="prodCavidadesLabel">
       <Properties>
         <Property name="text" type="java.lang.String" value="Cavidades"/>
       </Properties>
     </Component>
-    <Component class="java.awt.TextField" name="textField5">
+    <Component class="java.awt.TextField" name="prodCavidadesInput">
     </Component>
-    <Component class="java.awt.Label" name="label7">
+    <Component class="java.awt.Label" name="prodInjecoesLabel">
       <Properties>
         <Property name="text" type="java.lang.String" value="Inje&#xe7;&#xf5;es"/>
       </Properties>
     </Component>
-    <Component class="java.awt.TextField" name="textField6">
+    <Component class="java.awt.TextField" name="prodInjecoesInput">
     </Component>
-    <Component class="java.awt.Choice" name="choice1">
+    <Component class="java.awt.Choice" name="prodTurnoEscolha">
     </Component>
-    <Component class="java.awt.Label" name="label8">
+    <Component class="java.awt.Label" name="prodMaquinaLabel">
       <Properties>
         <Property name="text" type="java.lang.String" value="M&#xe1;quina"/>
       </Properties>
     </Component>
-    <Component class="java.awt.Label" name="label9">
+    <Component class="java.awt.Label" name="prodProducaoLabel">
       <Properties>
         <Property name="text" type="java.lang.String" value="Produ&#xe7;&#xe3;o"/>
       </Properties>
     </Component>
-    <Component class="java.awt.Label" name="label10">
+    <Component class="java.awt.Label" name="prodMpPrincConsumidaLabel">
       <Properties>
         <Property name="text" type="java.lang.String" value="MP Princ. Consumida"/>
       </Properties>
     </Component>
-    <Component class="java.awt.Label" name="label11">
+    <Component class="java.awt.Label" name="prodMpSecConsumidaLabel">
       <Properties>
         <Property name="text" type="java.lang.String" value="MP Sec. Consumida"/>
       </Properties>
     </Component>
-    <Component class="java.awt.Label" name="label12">
+    <Component class="java.awt.Label" name="prodMpTotalConsumidaLabel">
       <Properties>
         <Property name="text" type="java.lang.String" value="MP Total Consumida"/>
       </Properties>
     </Component>
-    <Component class="java.awt.Label" name="label13">
+    <Component class="java.awt.Label" name="prodTempoInjLabel">
       <Properties>
         <Property name="text" type="java.lang.String" value="Tempo de Inj."/>
       </Properties>
     </Component>
-    <Component class="java.awt.Label" name="label14">
+    <Component class="java.awt.Label" name="prodTotalCiclosLabel">
       <Properties>
         <Property name="text" type="java.lang.String" value="Total de Ciclos"/>
       </Properties>
     </Component>
-    <Component class="java.awt.Choice" name="choice2">
+    <Component class="java.awt.Choice" name="prodMaquinaLabelEscolhas">
     </Component>
-    <Component class="java.awt.TextField" name="textField4">
+    <Component class="java.awt.TextField" name="prodProducaoInput">
     </Component>
-    <Component class="java.awt.TextField" name="textField7">
+    <Component class="java.awt.TextField" name="prodMpPrincConsumidaInput">
     </Component>
-    <Component class="java.awt.TextField" name="textField8">
+    <Component class="java.awt.TextField" name="prodMpSecConsumidaInput">
     </Component>
-    <Component class="java.awt.TextField" name="textField9">
+    <Component class="java.awt.TextField" name="prodMpTotalConsumidaInput">
     </Component>
-    <Component class="java.awt.TextField" name="textField10">
+    <Component class="java.awt.TextField" name="prodTempoInjInput">
     </Component>
-    <Component class="java.awt.TextField" name="textField11">
+    <Component class="java.awt.TextField" name="prodTotalCiclosInput">
     </Component>
-    <Component class="java.awt.Label" name="label15">
+    <Component class="java.awt.Label" name="prodMpPrincConsumidaLabelKg">
       <Properties>
         <Property name="text" type="java.lang.String" value="Kg"/>
       </Properties>
     </Component>
-    <Component class="java.awt.Label" name="label16">
+    <Component class="java.awt.Label" name="prodMpSecConsumidaLabelKg">
       <Properties>
         <Property name="text" type="java.lang.String" value="Kg"/>
       </Properties>
     </Component>
-    <Component class="java.awt.Label" name="label17">
+    <Component class="java.awt.Label" name="prodMpTotalConsumidaLabelKg">
       <Properties>
         <Property name="text" type="java.lang.String" value="Kg"/>
       </Properties>
     </Component>
-    <Component class="javax.swing.JButton" name="jButton1">
+    <Component class="javax.swing.JButton" name="prodSalvar">
       <Properties>
         <Property name="text" type="java.lang.String" value="Salvar"/>
       </Properties>
     </Component>
-    <Component class="javax.swing.JButton" name="jButton2">
+    <Component class="javax.swing.JButton" name="prodExcluir">
       <Properties>
         <Property name="text" type="java.lang.String" value="Excluir"/>
       </Properties>
     </Component>
-    <Component class="javax.swing.JButton" name="jButton3">
+    <Component class="javax.swing.JButton" name="prodFichas">
       <Properties>
         <Property name="text" type="java.lang.String" value="Fichas"/>
       </Properties>
     </Component>
-    <Component class="javax.swing.JButton" name="jButton4">
+    <Component class="javax.swing.JButton" name="prodRelatorios">
       <Properties>
         <Property name="text" type="java.lang.String" value="Relat&#xf3;rios"/>
       </Properties>
       <Events>
-        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton4ActionPerformed"/>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="prodRelatoriosActionPerformed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JButton" name="jButton5">
+    <Component class="javax.swing.JButton" name="prodSair">
       <Properties>
         <Property name="text" type="java.lang.String" value="Sair"/>
       </Properties>
       <Events>
-        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton5ActionPerformed"/>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="prodSairActionPerformed"/>
       </Events>
     </Component>
-    <Component class="java.awt.Label" name="label18">
+    <Component class="java.awt.Label" name="prodMpPrincipalLabel">
       <Properties>
         <Property name="text" type="java.lang.String" value="MP Principal"/>
       </Properties>
     </Component>
-    <Component class="java.awt.Label" name="label19">
+    <Component class="java.awt.Label" name="prodMpSecLabel">
       <Properties>
         <Property name="text" type="java.lang.String" value="MP Secund&#xe1;ria"/>
       </Properties>
     </Component>
-    <Component class="java.awt.Label" name="label20">
+    <Component class="java.awt.Label" name="prodObserLabel">
       <Properties>
         <Property name="text" type="java.lang.String" value="Observa&#xe7;&#xf5;es"/>
       </Properties>
     </Component>
-    <Component class="java.awt.Choice" name="choice3">
+    <Component class="java.awt.Choice" name="prodMpPrincipalEscolhas">
     </Component>
-    <Component class="java.awt.Choice" name="choice4">
+    <Component class="java.awt.Choice" name="prodMpSecEscolhas">
     </Component>
-    <Component class="java.awt.TextArea" name="textArea1">
+    <Component class="java.awt.TextArea" name="prodObserv">
     </Component>
-    <Component class="java.awt.Label" name="label21">
+    <Component class="java.awt.Label" name="prodTotalSemanalLabel">
       <Properties>
         <Property name="alignment" type="int" value="1"/>
         <Property name="text" type="java.lang.String" value="Total Semanal"/>
@@ -525,44 +525,44 @@
         <Property name="AccessibleContext.accessibleName" type="java.lang.String" value=""/>
       </AccessibilityProperties>
     </Component>
-    <Component class="java.awt.Label" name="label22">
+    <Component class="java.awt.Label" name="prodDataIniLabel">
       <Properties>
         <Property name="text" type="java.lang.String" value="Data Inicial"/>
       </Properties>
     </Component>
-    <Component class="java.awt.Label" name="label23">
+    <Component class="java.awt.Label" name="prodDataFinLabel">
       <Properties>
         <Property name="text" type="java.lang.String" value="Data Final"/>
       </Properties>
     </Component>
-    <Component class="java.awt.Label" name="label24">
+    <Component class="java.awt.Label" name="prodProdLabel">
       <Properties>
         <Property name="text" type="java.lang.String" value="Produto"/>
       </Properties>
     </Component>
-    <Component class="java.awt.Choice" name="choice5">
+    <Component class="java.awt.Choice" name="prodProdEscolha">
     </Component>
-    <Component class="java.awt.TextField" name="textField12">
+    <Component class="java.awt.TextField" name="prodDataIniInput">
     </Component>
     <Component class="java.awt.Label" name="label25">
     </Component>
-    <Component class="java.awt.TextField" name="textField13">
+    <Component class="java.awt.TextField" name="prodDataFinInput">
     </Component>
-    <Component class="java.awt.Label" name="label26">
+    <Component class="java.awt.Label" name="prodTotalMpLabel">
       <Properties>
         <Property name="text" type="java.lang.String" value="Total de MP"/>
       </Properties>
     </Component>
-    <Component class="java.awt.Label" name="label27">
+    <Component class="java.awt.Label" name="prodTotalProdLabel">
       <Properties>
         <Property name="text" type="java.lang.String" value="Total de Produ&#xe7;&#xe3;o"/>
       </Properties>
     </Component>
-    <Component class="java.awt.TextField" name="textField14">
+    <Component class="java.awt.TextField" name="prodTotalMpInput">
     </Component>
-    <Component class="java.awt.TextField" name="textField15">
+    <Component class="java.awt.TextField" name="prodTotalProdInput">
     </Component>
-    <Component class="javax.swing.JButton" name="jButton6">
+    <Component class="javax.swing.JButton" name="prodAtualizar">
       <Properties>
         <Property name="text" type="java.lang.String" value="Atualizar"/>
       </Properties>
