@@ -28,7 +28,7 @@ public class TabelaPrecos_MateriaPrimaAviso extends javax.swing.JPanel {
 
         jPopupMenu1 = new javax.swing.JPopupMenu();
         try {
-            jOptionPane1 =(javax.swing.JOptionPane)java.beans.Beans.instantiate(getClass().getClassLoader(), "com/view.TabelaPrecos_MateriaPrimaAviso_jOptionPane1");
+            tabPrecoAvisoOk =(javax.swing.JOptionPane)java.beans.Beans.instantiate(getClass().getClassLoader(), "com/view.TabelaPrecos_MateriaPrimaAviso_jOptionPane1");
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         } catch (java.io.IOException e) {
@@ -41,21 +41,21 @@ public class TabelaPrecos_MateriaPrimaAviso extends javax.swing.JPanel {
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addGap(194, 194, 194)
-                .addComponent(jOptionPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 353, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(tabPrecoAvisoOk, javax.swing.GroupLayout.PREFERRED_SIZE, 353, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addContainerGap(286, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addGap(166, 166, 166)
-                .addComponent(jOptionPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 132, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(tabPrecoAvisoOk, javax.swing.GroupLayout.PREFERRED_SIZE, 132, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addContainerGap(230, Short.MAX_VALUE))
         );
     }// </editor-fold>//GEN-END:initComponents
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private javax.swing.JOptionPane jOptionPane1;
     private javax.swing.JPopupMenu jPopupMenu1;
+    private javax.swing.JOptionPane tabPrecoAvisoOk;
     // End of variables declaration//GEN-END:variables
 }
