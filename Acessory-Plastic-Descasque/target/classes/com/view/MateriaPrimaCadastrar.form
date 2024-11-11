@@ -35,16 +35,16 @@
                       <Group type="103" groupAlignment="0" attributes="0">
                           <Component id="jScrollPane1" alignment="0" min="-2" pref="544" max="-2" attributes="0"/>
                           <Group type="102" alignment="0" attributes="0">
-                              <Component id="mpReferencia" min="-2" pref="79" max="-2" attributes="0"/>
+                              <Component id="mpcCadastrarLabel" min="-2" pref="79" max="-2" attributes="0"/>
                               <EmptySpace max="-2" attributes="0"/>
-                              <Component id="mpInputReferencia" max="32767" attributes="0"/>
+                              <Component id="mpcCadastrarInput" max="32767" attributes="0"/>
                           </Group>
                       </Group>
                       <EmptySpace type="separate" max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                          <Component id="MP" alignment="0" max="32767" attributes="0"/>
-                          <Component id="Cadastrar" alignment="0" pref="91" max="32767" attributes="0"/>
-                          <Component id="Sair_MP" alignment="0" max="32767" attributes="0"/>
+                          <Component id="mpcEstoque" alignment="0" max="32767" attributes="0"/>
+                          <Component id="mpcCadastrar" alignment="0" pref="91" max="32767" attributes="0"/>
+                          <Component id="mpcSair" alignment="0" max="32767" attributes="0"/>
                       </Group>
                       <EmptySpace max="-2" attributes="0"/>
                   </Group>
@@ -61,18 +61,18 @@
               <Group type="103" groupAlignment="0" attributes="0">
                   <Group type="102" attributes="0">
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="mpReferencia" alignment="0" min="-2" max="-2" attributes="0"/>
-                          <Component id="mpInputReferencia" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="mpcCadastrarLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="mpcCadastrarInput" alignment="0" min="-2" max="-2" attributes="0"/>
                       </Group>
                       <EmptySpace max="-2" attributes="0"/>
                       <Component id="jScrollPane1" min="-2" pref="346" max="-2" attributes="0"/>
                   </Group>
                   <Group type="102" attributes="0">
-                      <Component id="Cadastrar" min="-2" pref="58" max="-2" attributes="0"/>
+                      <Component id="mpcCadastrar" min="-2" pref="58" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="MP" min="-2" pref="64" max="-2" attributes="0"/>
+                      <Component id="mpcEstoque" min="-2" pref="64" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Sair_MP" min="-2" pref="63" max="-2" attributes="0"/>
+                      <Component id="mpcSair" min="-2" pref="63" max="-2" attributes="0"/>
                   </Group>
               </Group>
               <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
@@ -108,7 +108,7 @@
 
           <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
           <SubComponents>
-            <Component class="javax.swing.JTable" name="jTable2">
+            <Component class="javax.swing.JTable" name="mpcCadastrarTab">
               <Properties>
                 <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
                   <Table columnCount="2" rowCount="4">
@@ -125,12 +125,12 @@
         </Container>
       </SubComponents>
     </Container>
-    <Component class="java.awt.Label" name="mpReferencia">
+    <Component class="java.awt.Label" name="mpcCadastrarLabel">
       <Properties>
         <Property name="text" type="java.lang.String" value="Mat&#xe9;ria Prima"/>
       </Properties>
     </Component>
-    <Component class="java.awt.TextField" name="mpInputReferencia">
+    <Component class="java.awt.TextField" name="mpcCadastrarInput">
     </Component>
     <Container class="javax.swing.JToolBar" name="jToolBar1">
       <Properties>
@@ -139,17 +139,17 @@
 
       <Layout class="org.netbeans.modules.form.compat2.layouts.DesignBoxLayout"/>
     </Container>
-    <Component class="javax.swing.JButton" name="Cadastrar">
+    <Component class="javax.swing.JButton" name="mpcCadastrar">
       <Properties>
         <Property name="text" type="java.lang.String" value="Cadastrar"/>
       </Properties>
     </Component>
-    <Component class="javax.swing.JButton" name="MP">
+    <Component class="javax.swing.JButton" name="mpcEstoque">
       <Properties>
         <Property name="text" type="java.lang.String" value="Estoque"/>
       </Properties>
     </Component>
-    <Component class="javax.swing.JButton" name="Sair_MP">
+    <Component class="javax.swing.JButton" name="mpcSair">
       <Properties>
         <Property name="text" type="java.lang.String" value="Sair"/>
       </Properties>
