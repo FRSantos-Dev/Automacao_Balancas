@@ -87,7 +87,7 @@
               <EmptySpace max="-2" attributes="0"/>
               <Group type="103" groupAlignment="0" attributes="0">
                   <Group type="102" attributes="0">
-                      <Component id="jLabel1" min="-2" pref="223" max="-2" attributes="0"/>
+                      <Component id="mpCadastroLabel" min="-2" pref="223" max="-2" attributes="0"/>
                       <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
                   </Group>
                   <Group type="102" attributes="0">
@@ -95,31 +95,31 @@
                           <Component id="jScrollPane1" min="-2" pref="544" max="-2" attributes="0"/>
                           <Group type="102" alignment="0" attributes="0">
                               <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                                  <Component id="mpReferencia" max="32767" attributes="0"/>
-                                  <Component id="mpReferencia4" max="32767" attributes="0"/>
+                                  <Component id="mpCodigoLabel" max="32767" attributes="0"/>
+                                  <Component id="mpReferenciaLabel" max="32767" attributes="0"/>
                               </Group>
                               <EmptySpace max="-2" attributes="0"/>
                               <Group type="103" groupAlignment="0" max="-2" attributes="0">
                                   <Group type="102" attributes="0">
-                                      <Component id="mpInputReferencia" min="-2" pref="72" max="-2" attributes="0"/>
+                                      <Component id="mpInputCodigo" min="-2" pref="72" max="-2" attributes="0"/>
                                       <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
-                                      <Component id="mpReferencia1" min="-2" pref="55" max="-2" attributes="0"/>
+                                      <Component id="mpPrecoLabel" min="-2" pref="55" max="-2" attributes="0"/>
                                       <EmptySpace max="-2" attributes="0"/>
-                                      <Component id="mpInputReferencia1" min="-2" pref="72" max="-2" attributes="0"/>
+                                      <Component id="mpInputPreco" min="-2" pref="72" max="-2" attributes="0"/>
                                   </Group>
                                   <Component id="mpInputReferencia4" max="32767" attributes="0"/>
                               </Group>
                               <EmptySpace max="-2" attributes="0"/>
                               <Group type="103" groupAlignment="0" attributes="0">
                                   <Group type="102" attributes="0">
-                                      <Component id="mpReferencia3" min="-2" pref="55" max="-2" attributes="0"/>
+                                      <Component id="mpPesoLabel" min="-2" pref="55" max="-2" attributes="0"/>
                                       <EmptySpace max="-2" attributes="0"/>
-                                      <Component id="mpInputReferencia3" min="-2" pref="72" max="-2" attributes="0"/>
+                                      <Component id="mpInputPeso" min="-2" pref="72" max="-2" attributes="0"/>
                                   </Group>
                                   <Group type="102" attributes="0">
-                                      <Component id="mpReferencia2" min="-2" pref="55" max="-2" attributes="0"/>
+                                      <Component id="mpCavidadesLabel" min="-2" pref="55" max="-2" attributes="0"/>
                                       <EmptySpace max="-2" attributes="0"/>
-                                      <Component id="mpInputReferencia2" min="-2" pref="72" max="-2" attributes="0"/>
+                                      <Component id="mpInputCavidades" min="-2" pref="72" max="-2" attributes="0"/>
                                   </Group>
                               </Group>
                           </Group>
@@ -143,24 +143,24 @@
       <Group type="103" groupAlignment="0" attributes="0">
           <Group type="102" alignment="0" attributes="0">
               <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
-              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <Component id="mpCadastroLabel" min="-2" max="-2" attributes="0"/>
               <EmptySpace pref="32" max="32767" attributes="0"/>
               <Group type="103" groupAlignment="0" attributes="0">
-                  <Component id="mpReferencia3" min="-2" max="-2" attributes="0"/>
-                  <Component id="mpInputReferencia3" min="-2" max="-2" attributes="0"/>
-                  <Component id="mpReferencia4" min="-2" max="-2" attributes="0"/>
+                  <Component id="mpPesoLabel" min="-2" max="-2" attributes="0"/>
+                  <Component id="mpInputPeso" min="-2" max="-2" attributes="0"/>
+                  <Component id="mpReferenciaLabel" min="-2" max="-2" attributes="0"/>
                   <Component id="mpInputReferencia4" min="-2" max="-2" attributes="0"/>
               </Group>
               <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="0" attributes="0">
                   <Group type="102" alignment="1" attributes="0">
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="mpReferencia" min="-2" max="-2" attributes="0"/>
-                          <Component id="mpInputReferencia" min="-2" max="-2" attributes="0"/>
-                          <Component id="mpReferencia1" min="-2" max="-2" attributes="0"/>
-                          <Component id="mpInputReferencia1" min="-2" max="-2" attributes="0"/>
-                          <Component id="mpReferencia2" min="-2" max="-2" attributes="0"/>
-                          <Component id="mpInputReferencia2" min="-2" max="-2" attributes="0"/>
+                          <Component id="mpCodigoLabel" min="-2" max="-2" attributes="0"/>
+                          <Component id="mpInputCodigo" min="-2" max="-2" attributes="0"/>
+                          <Component id="mpPrecoLabel" min="-2" max="-2" attributes="0"/>
+                          <Component id="mpInputPreco" min="-2" max="-2" attributes="0"/>
+                          <Component id="mpCavidadesLabel" min="-2" max="-2" attributes="0"/>
+                          <Component id="mpInputCavidades" min="-2" max="-2" attributes="0"/>
                       </Group>
                       <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
                       <Component id="jScrollPane1" min="-2" pref="346" max="-2" attributes="0"/>
@@ -228,7 +228,7 @@
 
           <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
           <SubComponents>
-            <Component class="javax.swing.JTable" name="jTable2">
+            <Component class="javax.swing.JTable" name="mpTabela">
               <Properties>
                 <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
                   <Table columnCount="4" rowCount="5">
@@ -271,12 +271,12 @@
         </Container>
       </SubComponents>
     </Container>
-    <Component class="java.awt.Label" name="mpReferencia">
+    <Component class="java.awt.Label" name="mpCodigoLabel">
       <Properties>
         <Property name="text" type="java.lang.String" value="C&#xf3;digo"/>
       </Properties>
     </Component>
-    <Component class="java.awt.TextField" name="mpInputReferencia">
+    <Component class="java.awt.TextField" name="mpInputCodigo">
     </Component>
     <Component class="javax.swing.JButton" name="Cadastrar1">
       <Properties>
@@ -293,38 +293,42 @@
         <Property name="text" type="java.lang.String" value="Alterar"/>
       </Properties>
     </Component>
-    <Component class="java.awt.Label" name="mpReferencia1">
+    <Component class="java.awt.Label" name="mpPrecoLabel">
       <Properties>
         <Property name="text" type="java.lang.String" value="Pre&#xe7;o"/>
       </Properties>
     </Component>
-    <Component class="java.awt.TextField" name="mpInputReferencia1">
+    <Component class="java.awt.TextField" name="mpInputPreco">
     </Component>
-    <Component class="java.awt.Label" name="mpReferencia2">
+    <Component class="java.awt.Label" name="mpCavidadesLabel">
       <Properties>
         <Property name="text" type="java.lang.String" value="Cavidades"/>
       </Properties>
     </Component>
-    <Component class="java.awt.TextField" name="mpInputReferencia2">
+    <Component class="java.awt.TextField" name="mpInputCavidades">
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableLocal" type="java.lang.Boolean" value="true"/>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="0"/>
+      </AuxValues>
     </Component>
-    <Component class="java.awt.Label" name="mpReferencia3">
+    <Component class="java.awt.Label" name="mpPesoLabel">
       <Properties>
         <Property name="text" type="java.lang.String" value="Peso"/>
       </Properties>
     </Component>
-    <Component class="java.awt.TextField" name="mpInputReferencia3">
+    <Component class="java.awt.TextField" name="mpInputPeso">
       <Events>
-        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mpInputReferencia3ActionPerformed"/>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mpInputPesoActionPerformed"/>
       </Events>
     </Component>
-    <Component class="java.awt.Label" name="mpReferencia4">
+    <Component class="java.awt.Label" name="mpReferenciaLabel">
       <Properties>
         <Property name="text" type="java.lang.String" value="Refer&#xea;ncia"/>
       </Properties>
     </Component>
     <Component class="java.awt.TextField" name="mpInputReferencia4">
     </Component>
-    <Component class="javax.swing.JLabel" name="jLabel1">
+    <Component class="javax.swing.JLabel" name="mpCadastroLabel">
       <Properties>
         <Property name="text" type="java.lang.String" value="Cadastro de Produtos e Pre&#xe7;os"/>
       </Properties>
